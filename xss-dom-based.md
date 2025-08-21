@@ -1,6 +1,7 @@
-['https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study/blob/main/payloads/CookieStealer-Payloads.md'](Steal-cookie-payloads)
+[teal-cookie-payloads](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study/blob/main/payloads/CookieStealer-Payloads.md)
 
-['https://portswigger.net/web-security/cross-site-scripting/cheat-sheet'](XSS Cheat sheet)
+[XSS Cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+
 ### test xss
 ```
 jQuery selector sink using a hashchange event
