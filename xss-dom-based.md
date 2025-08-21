@@ -1,4 +1,4 @@
-[teal-cookie-payloads](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study/blob/main/payloads/CookieStealer-Payloads.md)
+[steal-cookie-payloads](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study/blob/main/payloads/CookieStealer-Payloads.md)
 
 [XSS Cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 
