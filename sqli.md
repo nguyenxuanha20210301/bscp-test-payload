@@ -1,4 +1,4 @@
-['https://portswigger.net/web-security/sql-injection/cheat-sheet'](CHEAT-SHEET)
+(https://portswigger.net/web-security/sql-injection/cheat-sheet)['CHEAT-SHEET']
 
 ### finding number of columns and type of database
 ```sql 
